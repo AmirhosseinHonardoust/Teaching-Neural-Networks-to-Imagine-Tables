@@ -8,7 +8,7 @@ While generating cat images or realistic human faces is a solved problem, **tabu
 
 This article explores **how a Variational Autoencoder (VAE)** learns to “dream” in structured data: capturing its patterns, correlations, and variability, and generating new, realistic samples that *feel* authentic but reveal no real individuals.
 
----
+--- 
 
 ## Why Tabular Data is Hard for Generative Models
 
