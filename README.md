@@ -1,5 +1,5 @@
 # Teaching Neural Networks to Imagine Tables: Inside VAE for Tabular Data
-
+ 
 ## Introduction, Can a Neural Network Dream in Tables?
 
 When we think of generative AI, images, text, and audio come to mind. But what if neural networks could **imagine structured data tables**, the kind analysts and data scientists use every day?
